@@ -1,0 +1,3 @@
+FROM nirbhayfaaya/a1111_docker:latest
+
+CMD bash start.sh

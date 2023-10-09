@@ -1,0 +1,12 @@
+Requirement already satisfied: opencv-python in /opt/conda/envs/stable_diffusion_web/lib/python3.10/site-packages (4.7.0.72)
+Collecting opencv-python
+  Obtaining dependency information for opencv-python from https://files.pythonhosted.org/packages/b7/8a/b2f7e1a434d56bf1d7570fc5941ace0847404e1032d7f1f0b8fed896568d/opencv_python-4.8.1.78-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata
+  Using cached opencv_python-4.8.1.78-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (19 kB)
+Requirement already satisfied: numpy>=1.21.2 in /opt/conda/envs/stable_diffusion_web/lib/python3.10/site-packages (from opencv-python) (1.23.5)
+Using cached opencv_python-4.8.1.78-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (61.7 MB)
+Installing collected packages: opencv-python
+  Attempting uninstall: opencv-python
+    Found existing installation: opencv-python 4.7.0.72
+    Uninstalling opencv-python-4.7.0.72:
+      Successfully uninstalled opencv-python-4.7.0.72
+Successfully installed opencv-python-4.8.1.78

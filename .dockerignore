@@ -1,0 +1,2 @@
+models/Stable-diffusion/*.ckpt
+extensions/sd-webui-controlnet/models/*.pth
